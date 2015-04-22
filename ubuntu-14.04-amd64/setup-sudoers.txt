@@ -1,0 +1,4 @@
+$ sudo visudo
+
+## Add a following line to the tail
+username ALL=(ALL) NOPASSWD:ALL
